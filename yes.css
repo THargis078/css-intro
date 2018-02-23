@@ -1,0 +1,43 @@
+
+ h1 {
+    font-family: cursive;
+    text-decoration-color: darkgoldenrod;
+    padding: 10px;
+    margin: 3px;
+    position: static 200px;
+    font-size: 30px;
+    font-size: 64px;
+
+}
+
+p {
+   font-family: sans-serif;
+   position: relative 30px;
+   background-color: cadetblue;
+   height:250px;
+    width: 200px;
+    background-color: coral;
+
+}
+
+.blockquote {
+    font-family: sans-serif;
+  position: absolute 200px;
+
+}
+
+body {
+  font-family: fantasy;
+  z-index: auto 90px;
+  background-image: url(images/hmm.jpg);
+}
+
+h2 {
+    font-family: serif;
+    color: hotpink;
+    float: left;
+     background-color: gold;
+  padding: 20px;
+  margin: 50px;
+  border: 300px;
+}
