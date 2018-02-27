@@ -22,7 +22,9 @@ p {
 
 blockquote {
     font-family: sans-serif;
-  position: absolute 200px;
+  position: fixed;
+  background-color: aliceblue;
+ margin-top: 20px;
 
 }
 
