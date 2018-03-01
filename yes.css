@@ -37,9 +37,11 @@ body {
 h2 {
     font-family: serif;
     color: hotpink;
-    float: left;
+    float: right;
+    position: relative;
      background-color: gold;
   padding: 20px;
   margin: 50px;
-  border: 300px;
+  border: 100px;
+    width: 100px;
 }
